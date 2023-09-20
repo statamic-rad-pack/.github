@@ -4,7 +4,7 @@
 
 This is the beginning of something new. We're assembling a crew that can work independently of the core Statamic team to build and maintain Addons and Starter Kits that serve the community. Think of this as "second-party" — third-party Addons and Kits with a first-party guarantee that they will be built and documented to the Core Team's standards, well-maintained, and not abandoned.
 
-## Most Rad Pack Addons should be free
+## Most Rad Pack Addons Should be Free
 
 The goal is provide broad usefulness for our users, not to make money. However, [some addons](https://statamic.com/addons/rad-pack/shopify) might require significant ongoign maintainence and may warrant being a paid product whose revenue would be shared with the developers.
 
