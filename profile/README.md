@@ -6,7 +6,7 @@ This is the beginning of something new. We're assembling a crew that can work in
 
 ## Most Rad Pack Addons Should be Free
 
-The goal is provide broad usefulness for our users, not to make money. However, [some addons](https://statamic.com/addons/rad-pack/shopify) might require significant ongoign maintainence and may warrant being a paid product whose revenue would be shared with the developers.
+The goal is provide broad usefulness for our users, not to make money. However, [some addons](https://statamic.com/addons/rad-pack/shopify) might require significant ongoing maintainence and may warrant being a paid product whose revenue would be shared with the developers.
 
 ## Go-Wide-But-Not-Too-Wide
 
