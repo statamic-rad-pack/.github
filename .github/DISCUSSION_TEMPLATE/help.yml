@@ -1,0 +1,13 @@
+body:
+- type: textarea
+  attributes:
+    label: Description
+    placeholder: "What do you need help with? Please be as detailed as possible."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Environment
+    description: Copy & paste the output of `php please support:details` here.
+  validations:
+    required: true
