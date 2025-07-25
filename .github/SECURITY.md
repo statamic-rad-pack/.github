@@ -3,7 +3,7 @@ If you discover a security vulnerability in of the addons in the Statamic Rad Pa
 ## Guidelines
 While working to identify potential security vulnerabilities, we ask that you:
 
-- **Privately** share any issues that you discover with us via [statamic.com/support](https://statamic.com/support) as soon as possible.
+- **Privately** share any issues that you discover with us via support@statamic.com as soon as possible.
 - Give us a reasonable amount of time to address any reported issues before publicizing them.
 - Only report issues that are in scope.
 - Provide a quality report with precise explanations and concrete attack scenarios.
